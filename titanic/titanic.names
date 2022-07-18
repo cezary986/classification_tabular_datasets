@@ -1,0 +1,5 @@
+@RELATION titanic
+@ATTRIBUTE pclass {"1st","2nd","3rd","crew"}
+@ATTRIBUTE age {"adult","child"}
+@ATTRIBUTE sex {"male","female"}
+@ATTRIBUTE class {"yes","no"}
