@@ -1,0 +1,45 @@
+1. Title: Employees Evaluation for Promotion - Employees evaluation for the Promotion in HR department
+
+2. Sources:
+   kaggle: https://www.kaggle.com/datasets/muhammadimran112233/employees-evaluation-for-promotion
+
+4. Relevant Information:
+    
+    Background & Context
+    
+    The HR team stored data of promotion cycle last year, which consists of details of all the employees in the company working last year and also if they got promoted or not, but every time this process gets delayed due to so many details available for each employee - it gets difficult to compare and decide.
+    So this time HR team wants to utilize the stored data to make a model, that will predict if a person is eligible for promotion or not.
+    Need to come up with a model that will help the HR team to predict if a person is eligible for promotion or not.
+
+    Objective
+    
+    Explore and visualize the dataset.
+    Build a classification model to predict if the customer has a higher probability of getting a promotion
+    Optimize the model using appropriate techniques
+    Generate a set of insights and recommendations that will help the company
+    
+    Data Dictionary
+
+
+6. Number of Attributes: 12 (with label column and with deleted "employeeid" column)
+
+7. Attribute Information:
+    • employeeid: Unique ID for the employee (integer)
+    • department: Department of employee (string)
+    • region: Region of employment (string unordered) 
+    • education: Education Level 
+    • gender: Gender of Employee (string)
+    • recruitment_channel: Channel of recruitment for employee (string)
+    • no_of_trainings: no of other trainings completed in the previous year on soft skills, technical skills, etc. (integer)
+    • age: Age of Employee (integer)
+    • previous_year_rating: Employee Rating for the previous year (integer)
+    • length_of_service: Length of service in years (integer)
+    • awards_won: if awards won during the previous year then 1 else 0 (binary)
+    • avg_training_score: Average score in current training evaluations (integer)
+    • class (named "is_promoted" is orignal daataset) (Target) Recommended for promotion (binary)
+
+    NOTE: original field "employeeid" was deleted in this dataset
+
+8. Missing Attribute Values: 
+    • education: 2409 - 4%
+    • previous_year_rating: 4124 - 8%
