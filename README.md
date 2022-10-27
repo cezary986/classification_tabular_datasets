@@ -42,7 +42,7 @@ All datasets are splitted to train and test parts. If whole unsplitted dataset w
 | [monk-2](https://archive.ics.uci.edu/ml/datasets/MONK's+Problems)                                       | 369     | 7       | no             | 2       |
 | [monk-3](https://archive.ics.uci.edu/ml/datasets/MONK's+Problems)                                       | 322     | 7       | no             | 2       |
 | [mushroom](https://archive.ics.uci.edu/ml/datasets/mushroom)                                            | 8124    | 23      | yes            | 2       |
-| [nursery](https://archive.ics.uci.edu/ml/datasets/nursery)                                              | 12960   | 8       | no             | 5       |
+| [nursery](https://archive.ics.uci.edu/ml/datasets/nursery)                                              | 12960   | 9       | no             | 5       |
 | [phoneme](https://www.openml.org/search?type=data&sort=runs&id=1489&status=active)                      | 5404    | 6       | no             | 2       |
 | [poker-hand](https://archive.ics.uci.edu/ml/datasets/Poker+Hand)                                        | 1025010 | 11      | no             | 10      |
 | [segment](https://archive.ics.uci.edu/ml/datasets/image+segmentation)                                   | 2310    | 20      | no             | 7       |
