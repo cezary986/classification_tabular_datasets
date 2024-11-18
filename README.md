@@ -1,4 +1,4 @@
-# Classificaation Tabular Datasets
+# Classification Tabular Datasets
 
 This repository contains numerous benchmark tabular datasets for testing various classification algorithms.
 
