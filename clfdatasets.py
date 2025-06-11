@@ -3,8 +3,9 @@ from typing import Optional
 import pandas as pd
 
 _BASE_URL = (
-    "https://github.com/cezary986/clalassification_tabular_datasets/raw/refs/heads/main"
+    "https://github.com/cezary986/classification_tabular_datasets/raw/refs/heads/main"
 )
+
 _LABEL_COLUMN = "class"
 AVAILABLE_DATASETS: list[str] = [
     "adult",
