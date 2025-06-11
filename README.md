@@ -2,6 +2,8 @@
 
 This repository contains numerous benchmark tabular datasets for testing various classification algorithms.
 
+Check also [Regression Tabular Datasets](https://github.com/cezary986/regression_tabular_datasets) and [Survival Analysis Tabular Datasets](https://github.com/cezary986/survival_tabular_datasets)
+
 All datasets are splitted to train and test parts. If whole unsplitted dataset was accessible it is also splitted into 10-fold cross validation datasets. Each dataset contains target column names **class** for prediction. Files in parquet data format is used which could be easily loaded using pandas Python package.
 
 | Dataset name | Rows | Columns | Missing values | Classes |
